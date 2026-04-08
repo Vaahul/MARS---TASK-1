@@ -1,4 +1,4 @@
-# Blnnking LED
+# Blinking LED
 
 ## Components Used:
 1. LEDs
